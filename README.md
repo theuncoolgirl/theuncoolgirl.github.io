@@ -6,7 +6,6 @@ I am a motivated problem-solver and full stack engineer with a project managemen
 ### 🎧
 I am currently seeking a full-time, remote position as a front-end or full-stack enginner with a company that values continuous learning and invests in its employees' growth. I thrive in transparent and collaborative environments and seek to work with a team that fosters a positive culture and is excited about the product we're building.
 
-
 I am constantly attempting to level-up my skills as an engineer. I am currently developing a fully-functional e-commerce React single-page app as vehicle to learn new technologies, such as Typescript, Firebase, and integrating with the Stripe payments API, while also practicing my existing skills in leveraging Redux, Redux-Saga, and GraphQL.
 
 ### 🍜
